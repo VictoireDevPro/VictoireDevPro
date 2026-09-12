@@ -8,7 +8,7 @@ institutions and private clients — Mobile Money payments, multi-tenant systems
 and real-time apps — from data modelling right through to deployment.
 
 🔭 **Right now** I'm moving deeper into agentic AI: LangChain → LangGraph,
-multi-agent orchestration, and RAG at scale.
+multi-agent orchestration, fine tuning, inferencing and ML Integration at scale.
 
 ### Tech I work with
 - **Frontend:** React, Next.js, TypeScript, TailwindCSS, TanStack Query
