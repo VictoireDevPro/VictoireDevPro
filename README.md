@@ -1,16 +1,26 @@
-## Hi there 👋
+# Victoire Luc Ngami
 
-<!--
-**VictoireDevPro/VictoireDevPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer — building, securing and scaling fintech products.**
 
-Here are some ideas to get you started:
+I'm Victoire Luc Ngami, a full-stack software engineer based in Brazzaville, Congo.
+I design and build fintech products and business platforms for social-security
+institutions and private clients — Mobile Money payments, multi-tenant systems,
+and real-time apps — from data modelling right through to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Right now** I'm moving deeper into agentic AI: LangChain → LangGraph,
+multi-agent orchestration, and RAG at scale.
+
+### Tech I work with
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS, TanStack Query
+- **Backend:** Node.js (NestJS, AdonisJS), Python (FastAPI, Django REST), PostgreSQL
+- **Architecture:** Microservices, event-driven (Apache Kafka), multi-tenant, BFF
+- **AI:** LangChain, LangGraph, RAG, Qdrant
+- **Infra & tools:** Docker, Jenkins CI, SonarQube, Git
+
+### Find me
+- 🌍 Portfolio — https://lucngami.vercel.app
+- 💼 LinkedIn — https://www.linkedin.com/in/victoire-luc-ngami-460a27282
+- 📫 Email — luckydevpro@gmail.com
+
+---
+<sub>Victoire Luc Ngami · Software Engineer · Fintech &amp; AI · Brazzaville, Congo</sub>
