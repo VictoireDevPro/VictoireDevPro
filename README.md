@@ -20,7 +20,7 @@ multi-agent orchestration, fine tuning, inferencing and ML Integration at scale.
 ### Find me
 - 🌍 Portfolio — https://lucngami.vercel.app
 - 💼 LinkedIn — https://www.linkedin.com/in/victoire-luc-ngami-460a27282
-- 📫 Email — luckydevpro@gmail.com
+- 📫 Email — luckydevpro25@gmail.com
 
 ---
 <sub>Victoire Luc Ngami · Software Engineer · Fintech &amp; AI · Brazzaville, Congo</sub>
