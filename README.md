@@ -1,6 +1,6 @@
 # Victoire Luc Ngami
 
-**Software Engineer — building, securing and scaling fintech products.**
+**Software Engineer — building, securing and scaling fintech and Ai products.**
 
 I'm Victoire Luc Ngami, a full-stack software engineer based in Brazzaville, Congo.
 I design and build fintech products and business platforms for social-security
